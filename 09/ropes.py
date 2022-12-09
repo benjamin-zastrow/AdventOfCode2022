@@ -81,4 +81,3 @@ for line in input:
             visitedPos.append(tailPos[8].copy())
 
 print(len(visitedPos))
-
